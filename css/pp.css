@@ -1,0 +1,28 @@
+#picture-css
+{
+width: 600px;
+height: 600px;
+background-image:url(../images/bmw.jpg);
+margin:0 auto;    
+}
+#hovers
+{
+width: :300px;
+height: 300px;
+border:3px solid black;
+background-image:  url(../images/bmw.jpg);
+opacity:0.5;
+
+}
+#hovers:hover{
+background-color: skyblue;
+border:1px solid red;
+color:blueviolet;
+opacity:2;
+
+}
+#hovers h2{
+  
+texr-align:center;    
+    
+}
